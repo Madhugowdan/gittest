@@ -1,0 +1,2 @@
+adding one text file to to remote git
+it is a first commiz
